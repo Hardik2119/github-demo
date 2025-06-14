@@ -1,2 +1,2 @@
 # github-demo
-This is my first git repo.
+This is my first Git Repo. Author - Hardik Parmar
